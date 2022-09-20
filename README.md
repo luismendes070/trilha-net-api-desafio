@@ -1,4 +1,7 @@
 # DIO - Trilha .NET - API e Entity Framework
+
+https://gist.github.com/luismendes070/4197fa9f750bc266889ae2b544157a59
+
 www.dio.me
 
 ## Desafio de projeto
